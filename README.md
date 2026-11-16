@@ -1,4 +1,4 @@
-# Distributori e prezzi dei carburanti a Roma
+# Analisi prezzi dei carburanti a Roma
 
 Progetto personale di analisi dati · 2026 · **in corso: fase 1, audit dei dati completato**.
 
