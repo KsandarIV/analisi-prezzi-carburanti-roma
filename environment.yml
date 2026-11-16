@@ -1,0 +1,21 @@
+name: data_science
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - statsmodels
+  - matplotlib
+  - seaborn
+  - plotly
+  - jupyterlab
+  - ipykernel
+  - openpyxl
+  - pyarrow
+  - requests
+  - pip
+  - pip:
+      - itables
